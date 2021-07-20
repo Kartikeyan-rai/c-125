@@ -1,0 +1,5 @@
+body{text-align: center;background-color: darkred;}
+.heading{width: 100%;margin: 0px;box-shadow: 10px 10px 10px grey;font-size: large;}
+.note{color: black; font-size: small;}
+#copyright_footer{bottom: 0;background-color: grey;position: fixed;width: 100%;color: blue;line-height: 2;}
+canvas{border: 5px ridge white;box-shadow: 10px 10px 10px grey;border-radius: 25px;}
